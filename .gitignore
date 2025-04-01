@@ -1,0 +1,26 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories 
+node_modules/
+
+# Build directories 
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore API key files 
+api-key.txt
