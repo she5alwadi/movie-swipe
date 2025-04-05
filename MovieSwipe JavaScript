@@ -15,7 +15,7 @@ const movies = [
     { title: "The Dark Knight", description: "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
 ];
 
-// Initialize Swiper
+// Swiper
 const swiper = new Swiper('.swiper-container', {
     navigation: {
         nextEl: '.swiper-button-next',
