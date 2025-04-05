@@ -10,9 +10,9 @@ let watchLaterMovies = [];
 
 //Example of movie list (tittle/discription)
 const movies = [
-    { title: "Inception", description: "A thief who steals corporate secrets through the use of dream-sharing technology.", image: "https://via.placeholder.com/300x450" },
-    { title: "Interstellar", description: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.", image: "https://via.placeholder.com/300x450" },
-    { title: "The Dark Knight", description: "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.", image: "https://via.placeholder.com/300x450" }
+    { title: "Inception", description: "A thief who steals corporate secrets through the use of dream-sharing technology."
+    { title: "Interstellar", description: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    { title: "The Dark Knight", description: "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
 ];
 
 // Initialize Swiper
