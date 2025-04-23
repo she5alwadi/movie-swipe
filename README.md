@@ -19,7 +19,8 @@ Abdulrhman Daas: Built the watchlist feature in watch-later.html, added local st
 
 # Presentation Video
 
-Watch our project presentation video below:
-https://www.youtube.com/watch?v=l1pohMsy5Zg
+Watch our project presentation video:
+[![Watch the video](https://img.youtube.com/vi/l1pohMsy5Zg/0.jpg)]
+(https://www.youtube.com/watch?v=l1pohMsy5Zg)
 
 
